@@ -1,5 +1,4 @@
-python-telegram-bot
-opencv-python-headless
 numpy
-requests
+opencv-python
+python-telegram-bot
 easyocr
