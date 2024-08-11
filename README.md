@@ -8,13 +8,13 @@ This is a Telegram bot that allows users to send text or images containing text,
 1. **Clone Repository**: 
    - Clone this repository to your local machine:
      ```bash
-     git clone https://github.com/mahaboobsabGoa/Telegram-OCR-Bot.git
+     git clone https://github.com/sahil-makandar/Telegram-OCR-Bot.git
      ```
 
 2. **Navigate to Repository**: 
    - Change directory to the cloned repository:
      ```bash
-     cd telegram-ocr-bot
+     cd Telegram-OCR-Bot
      ```
 
 3. **Install Dependencies**: 
